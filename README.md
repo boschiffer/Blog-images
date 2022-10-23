@@ -1,2 +1,2 @@
 # Blog-images
-save some imags
+save some images
